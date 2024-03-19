@@ -1,3 +1,4 @@
-El programa trata de recortar la placa encontrada en la imagen.
-Los posibles problemas se deban al los filtros usados para la deteccion de contornos.
+El programa trata de recortar la placa encontrada en la imagen y darla en texto.
+Los posibles problemas yo creo que se deben al los filtros usados para la deteccion de contornos y por eso aunque muestre la placa
+en una imagen tesseract no detecta su texto de manera correcta y a veces los contornos de las placas no los detecta.
 Ademas de que no esta muy generalizado el modelo para la deteccion, por lo tanto la identificacion aun no esta completa.
