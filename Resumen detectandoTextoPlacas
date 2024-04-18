@@ -1,0 +1,3 @@
+En el archivo detectandoTextoPlacas cambie de metodo y en lugar de buscar la forma de la placa, la cual es rectangular, empece a buscar el texto qu haya el la imagen
+y el lugar que tenga mas concentracion de texto es la cual estoy tomando como la placa, lo que me ha ayudado mas en la hora de recortar las coordenadas de la placa, 
+aunque en su mayoria no se ve completa y tiene problemas sobretodo en los carros con estampados que tangan letras ya que detecta primero eso.
